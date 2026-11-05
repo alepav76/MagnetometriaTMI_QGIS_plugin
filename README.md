@@ -17,4 +17,7 @@ Compatibility: QGIS 3.44.x / Python 3.12
 Dependencies: numpy, scipy, GDAL (bundled with QGIS)
 Input Requirements: Regular grid raster (GeoTIFF, VRT, IMG, ASC) in a projected CRS with linear units (preferably meters).
 
+
+Authors: Michele Potleca, Nicola Creati, Paolo Paganini, Alessandro Pavan, Paolo Sterzai
+
 Note: This plugin was developed with the assistance of AI.
